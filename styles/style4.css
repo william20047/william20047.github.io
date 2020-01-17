@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap');
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body{
+	background-image: url("../images/websitebackground3.png")
+}
+
+body, html{
+
+	scroll-behavior: smooth;
+}
+
+h1{
+	margin-top: -9px;
+	
+	text-align: center;
+	font-size: 80px;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+img{
+	margin-top: -210px;
+	margin-left:200px;
+	margin-right: 100px;
+	float: left;
+	width: 700px;
+	height: 541;
+}
+
+
+.intro{
+	
+	margin-right: 100px;
+	margin-top: 340px;
+	font-family: 'Questrial', sans-serif;
+	font-size: 38px;
+	color:white;
+
+	text-align: center;
+	
+
+}
+
+.info{
+	font-family: 'Questrial', sans-serif;
+	color:white;
+	text-align: center;
+	font-size: 50px;
+	padding-right: 30px;
+	padding-left: 30px;
+	
+	margin-top: 500px;
+	margin-bottom: 300px;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+	padding-top: 200px;
+}
+
+.infopagego{
+	float: right;	
+	padding-right: 30px;
+	
+	margin-top: 300px;
+	
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.infopageback{
+	font-family: 'Montserrat Alternates', sans-serif;
+	
+	float: right;
+	padding-right: 30px;
+	margin-top: -75px;
+}
